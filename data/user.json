@@ -1,0 +1,165 @@
+{
+  "head": {
+    "title": "Souranil Sen's Resume"
+  },
+  "basics": {
+    "name": "SOURANIL SEN",
+    "email": "souranil@gmail.com",
+    "website": "http://sladebot.com",
+    "phone": "+91-9051515126",
+    "description": "I’m a <span class='role-label'> Fullstack Developer </span> with a craving for scalable systems and data analytics. I build resilient web-products, and love solving programming problems. I code in ruby, nodejs and now getting my hands dirty on Clojure and Elixir."
+  },
+  "education": [
+    {
+      "year": [
+        "AUG 2008",
+        "MAY 2012"
+      ],
+      "school": "Techno India, WBUT",
+      "location": "| Kolkata, INDIA",
+      "degree": "B.Tech in Information Technology"
+    }
+  ],
+  "work": [
+    {
+      "year": [
+        "MAR 2016",
+        "PRESENT"
+      ],
+      "company": "Quintype",
+      "location": "| Bangalore, INDIA",
+      "role": "Engineer",
+      "description": "Getting my hands dirty with Clojure, node.js along with a lot of interesting stuff with kubernetes and docker."
+    },
+    {
+      "year": [
+        "AUG 2014",
+        "JUN 2015"
+      ],
+      "company": "THOUGHTWORKS Inc.",
+      "location": "| Bangalore, INDIA",
+      "role": "Consultant",
+      "description": "Worked as a consultant for McKinsey Solutions, developed a couple of their products like RedE. Helped in product scalability by optimizing performance and migrated their applications to AWS."
+    },
+    {
+      "year": [
+        "SEP 2012",
+        "AUG 2014"
+      ],
+      "company": "TCS Innovation Labs",
+      "location": "| Chennai, INDIA",
+      "role": "Solutions Developer",
+      "description": "Developed key modules for an enterprise social networking application. Was a part of the research team for doing sentiment analysis with R. Also contributed to Open Source Software."
+    }
+  ],
+  "recognitions": [
+    {
+      "year": [
+        "DEC 2013"
+      ],
+      "award": "STAR PERFORMER AWARD",
+      "description": "Tata Consultancy Services"
+    },
+    {
+      "year": [
+        "DEC 2012"
+      ],
+      "award": "TRAINEE LEADERSHIP AWARD",
+      "description": "Tata Consultancy Services"
+    }
+  ],
+  "leadership": [
+    {
+      "year": [
+        "AUG 2014"
+      ],
+      "name": "THOUGHTWORKS Inc.",
+      "role": "Organised conferences hosted by ThoughtWorks"
+    },
+    {
+      "year": [
+        "AUG 2009",
+        "MAY 2012"
+      ],
+      "name": "GEEKONIX SCIENCE CLUB",
+      "role": "Organising Committee"
+    }
+  ],
+  "skills": [
+    {
+      "name": "PROGRAMMING",
+      "skillsets": [
+        "Ruby",
+        "JavaScript",
+        "Clojure",
+        "Node.js",
+        "Erlang",
+        "React.js",
+        "HTML & CSS"
+      ]
+    },
+    {
+      "name": "TOOLS",
+      "skillsets": [
+        "Docker",
+        "Kubernetes",
+        "Chef",
+        "Shell",
+        "Amazon Web Services",
+        "Redis",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "RESEARCH",
+      "skillsets": [
+        "Sentiment Analysis",
+        "Personal Interviews",
+        "Concurrency",
+        "Surveys",
+        "Compettitive Analysis"
+      ]
+    },
+    {
+      "name": "METHODOLOGIES",
+      "skillsets": [
+        "Agile Methodology",
+        "Kanban",
+        "TDD - Test Driven Development"
+
+      ]
+    }
+  ],
+  "socialprofiles": [
+    {
+      "name": "/twitter",
+      "url": "#",
+      "icon": "socicon-twitter"
+    },
+    {
+      "name": "/facebook",
+      "url": "#",
+      "icon": "socicon-facebook"
+    },
+    {
+      "name": "/dribbble",
+      "url": "#",
+      "icon": "socicon-dribbble"
+    },
+    {
+      "name": "/pinterest",
+      "url": "#",
+      "icon": "socicon-pinterest"
+    },
+    {
+      "name": "/instagram",
+      "url": "#",
+      "icon": "socicon-instagram"
+    },
+    {
+      "name": "/behance",
+      "url": "#",
+      "icon": "socicon-behance"
+    }
+  ]
+}
